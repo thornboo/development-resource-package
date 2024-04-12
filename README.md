@@ -1,6 +1,11 @@
 # important-data-resources
-用于备份保存电脑环境以及插件组件包。
-- vscode插件包
-- windows terminal配置
-- 代码规范文件配置prettier
-- eslint配置
+用于备份开发环境以及插件组件包。
+- vscode 设置、插件
+- windows terminal 配置
+- Prettier 代码规范文件（JS、TS等前端语言）
+- Eslint 代码审查文件（仅支持JavaScript）
+- JetBrains 配置文件、插件
+  - Clion
+  - Idea
+  - WebStorm
+  - Pycharm
